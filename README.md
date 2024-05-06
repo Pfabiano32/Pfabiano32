@@ -1,5 +1,6 @@
 ### Olá 👋! Eu sou o Gabriel José
 
+Meu perfil no linkedin<br/>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jose-pszepiura-a186192b9)
 
 ![Pfabiano32 GitHub stats](https://github-readme-stats.vercel.app/api?username=pfabiano32&show_icons=true&theme=radical)
@@ -19,5 +20,5 @@
 <img align="center" alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </div><br/>
 
-Estudante de análise e desenvolvimento de sistemas, apaixonado por tecnologia, atualmente aprimorando habilidades em desenvolvimento web com Python.
+Estudante de análise e desenvolvimento de sistemas iniciando carreira profissional na área de tecnologia, apaixonado por informatica, atualmente aprimorando habilidades em desenvolvimento web com Python.
 
